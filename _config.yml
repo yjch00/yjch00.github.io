@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "yjCHO"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/yjch00.github.io/_images/santa.jpg"
   bio              : "one by one"
   location         : "seoul"
   email            :
