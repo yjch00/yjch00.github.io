@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "default","air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YJCHO"
+title                    : "YJCHO's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YJCHO"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "YJCHO"
-  avatar           : "/yjch00.github.io/_images/santa.jpg"
+  avatar           : #"/yjch00.github.io/_images/santa.jpg"
   bio              : "one by one"
   location         : "seoul"
   email            :
