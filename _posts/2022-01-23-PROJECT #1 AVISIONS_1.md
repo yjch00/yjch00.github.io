@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "PROJECT#1 AVISIONS(1)"
-sidebar:
-   nav: "test"
+
 ---
 
 # 텍스트 유사도 구하기
