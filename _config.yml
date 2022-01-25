@@ -107,6 +107,13 @@ author:
   bio              : "one by one"
   location         : "seoul"
   email            : #"@"
+  github           : "yjch00"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         : 조영재-a23bb622a # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
