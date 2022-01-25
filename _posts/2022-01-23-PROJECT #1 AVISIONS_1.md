@@ -15,6 +15,7 @@ from konlpy.tag import Komoran
 ```
 
 ### 1. 구글링 코드 예시
+[link] : https://yanoo.tistory.com/21
 
 
 ```python
