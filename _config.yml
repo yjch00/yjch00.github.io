@@ -24,8 +24,8 @@ description              : "one by one"
 url                      : "https://yjch00.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/yjch00.github.io/_images/santa.jpg"
+teaser                   : "/assets/images/santa.jpg"
+logo                     : "/assets/images/santa.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true #, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -106,17 +106,17 @@ author:
   avatar           : #"/yjch00.github.io/_images/santa.jpg"
   bio              : "one by one"
   location         : "seoul"
-  email            :
+  email            : "zxc5932@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:zxc5932@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: #"www.linkedin.com/in/조영재-a23bb622a"
+      url:  #""
     - label: "Linkedin"
       icon: "fas fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/조영재-a23bb622a"      
+      url: "https://www.linkedin.com/in/조영재-a23bb622a"      
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -128,7 +128,7 @@ author:
       url: "https://github.com/yjch00/yjch00.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/polzzak_frog/"
 
 # Site Footer
 footer:
@@ -221,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)
